@@ -3,8 +3,7 @@ import { RouterModule, Routes } from '@angular/router';
 import { AboutComponent } from './about/about.component';
 import { ContactComponent } from './contact/contact.component';
 import { HomeComponent } from './home/home.component';
-import { OraganiccerealsComponent } from './oraganiccereals/oraganiccereals.component';
-import { OrganicfloursComponent } from './organicflours/organicflours.component';
+
 import { OrganicriceComponent } from './organicrice/organicrice.component';
 import { PagenotfoundComponent } from './pagenotfound/pagenotfound.component';
 import { ProductsComponent } from './products/products.component';
